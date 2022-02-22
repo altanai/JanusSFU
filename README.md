@@ -14,6 +14,8 @@ For more read :
 https://telecom.altanai.com/2020/06/22/media-architecture/
 
 This project uses  Janus's  video Room and audio mixer plugin to create a lightweight 20 person conference with sever side recording.
+https://telecom.altanai.com/2016/12/01/janus-as-webrtc-sfu/
+
 
 # Installation of janus gateway 
 
